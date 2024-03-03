@@ -1,6 +1,7 @@
 # Dosage_Calculator
-This is another side project that was created to approximate the dosage of 
-
+This is another side project that was created to approximate the dosage inside a patient for a given time. 
+the calculation is in the pdf that is in this directory or the sub-directory if user wants to understand the 
+math behind it. 
 
 This document will help the user on how to run this small applet. 
 
